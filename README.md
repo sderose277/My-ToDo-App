@@ -1,3 +1,3 @@
-This is mt "My ToDo App"
+This is "My ToDo App"
 
 By SDR
