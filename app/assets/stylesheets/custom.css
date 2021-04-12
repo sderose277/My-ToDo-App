@@ -1,6 +1,6 @@
 body {
 	padding-top: 0rem;
-	background-image: url(b4.jpg);
+	background-image: url("/assets/b4.jpg");
 	background-size: 1400px 1000px, cover;
 }
 
