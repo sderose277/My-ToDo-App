@@ -1,6 +1,7 @@
 body {
 	padding-top: 0rem;
-	background: url(img/b1.jpg);
+	background: url(b4.jpg);
+	background-size: 1400px 1000px, cover;
 }
 
 .start-templete {
